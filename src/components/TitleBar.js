@@ -19,7 +19,7 @@ function WeatherBar(props) {
       <AppBar position="static" color="primary">
         <ToolBar>
           <Typography variant="h6" color="inherit">
-            Weather
+            Weather App
           </Typography>
         </ToolBar>
       </AppBar>
